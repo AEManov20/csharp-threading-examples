@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementThread", "Implemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simultaneous", "Simultaneous\Simultaneous.csproj", "{57788B70-C9AC-4B97-8000-6E6052404F1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelDataProcessor", "ParallelDataProcessor\ParallelDataProcessor.csproj", "{196AD149-0AC9-4492-ACE8-7C331D523317}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{57788B70-C9AC-4B97-8000-6E6052404F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57788B70-C9AC-4B97-8000-6E6052404F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57788B70-C9AC-4B97-8000-6E6052404F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196AD149-0AC9-4492-ACE8-7C331D523317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196AD149-0AC9-4492-ACE8-7C331D523317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196AD149-0AC9-4492-ACE8-7C331D523317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196AD149-0AC9-4492-ACE8-7C331D523317}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
